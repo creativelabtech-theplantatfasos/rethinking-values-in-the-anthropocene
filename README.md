@@ -18,5 +18,5 @@ CC BY-SA 4.0 license inherited from EnTwine collection, with the exception of or
 ## Collaborators & Contacts
 Name & position, contact information, etc. 
 
-# Acknowledgments
+## Acknowledgments
 The author would like to thank...
